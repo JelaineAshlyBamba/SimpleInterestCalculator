@@ -1,0 +1,14 @@
+D:\Documents\pelim exam\SimpleInterestCalculator\bin\Debug\net8.0\SimpleInterestCalculator.exe
+D:\Documents\pelim exam\SimpleInterestCalculator\bin\Debug\net8.0\SimpleInterestCalculator.deps.json
+D:\Documents\pelim exam\SimpleInterestCalculator\bin\Debug\net8.0\SimpleInterestCalculator.runtimeconfig.json
+D:\Documents\pelim exam\SimpleInterestCalculator\bin\Debug\net8.0\SimpleInterestCalculator.dll
+D:\Documents\pelim exam\SimpleInterestCalculator\bin\Debug\net8.0\SimpleInterestCalculator.pdb
+D:\Documents\pelim exam\SimpleInterestCalculator\obj\Debug\net8.0\SimpleInterestCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\pelim exam\SimpleInterestCalculator\obj\Debug\net8.0\SimpleInterestCalculator.AssemblyInfoInputs.cache
+D:\Documents\pelim exam\SimpleInterestCalculator\obj\Debug\net8.0\SimpleInterestCalculator.AssemblyInfo.cs
+D:\Documents\pelim exam\SimpleInterestCalculator\obj\Debug\net8.0\SimpleInterestCalculator.csproj.CoreCompileInputs.cache
+D:\Documents\pelim exam\SimpleInterestCalculator\obj\Debug\net8.0\SimpleInterestCalculator.dll
+D:\Documents\pelim exam\SimpleInterestCalculator\obj\Debug\net8.0\refint\SimpleInterestCalculator.dll
+D:\Documents\pelim exam\SimpleInterestCalculator\obj\Debug\net8.0\SimpleInterestCalculator.pdb
+D:\Documents\pelim exam\SimpleInterestCalculator\obj\Debug\net8.0\SimpleInterestCalculator.genruntimeconfig.cache
+D:\Documents\pelim exam\SimpleInterestCalculator\obj\Debug\net8.0\ref\SimpleInterestCalculator.dll
